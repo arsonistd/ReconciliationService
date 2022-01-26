@@ -1,0 +1,18 @@
+{
+  "name": "ReconciliationService",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "ReconciliationService":{
+        "$path": "src/ReconciliationService"
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "ReconciliationServiceExample":{
+        "$path": "src/Example"
+      }
+    }
+  }
+}
